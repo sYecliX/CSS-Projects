@@ -1,0 +1,41 @@
+.button1{
+    background-color: rgb(126, 229, 218);
+    width: 37% ;
+    text-align:center ;
+    margin: 3px 0px;
+    padding: 10px;
+}
+
+.button2{
+    background-color: rgb(112, 204, 194);
+    width: 25%;
+    text-align: center;
+    margin: 3px 2px;
+    font-size:small;
+    padding-top: 5px;
+}
+
+.button3{
+    width: 40%;
+    background-color: rgb(98, 179, 170);
+    text-align: center;
+    margin: 3px 0px;
+    font-size:small;
+}
+
+body{
+    display: block;
+    margin: 8px;
+}
+
+.cs{
+    background-color: rgb(238, 238, 238);
+    margin-bottom: 2px;
+    margin-left: 5%;
+    margin-right: 5%;
+    
+}
+.box{
+    display: flex;
+    height: 80px;
+   }
